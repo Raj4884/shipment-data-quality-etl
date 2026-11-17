@@ -1,0 +1,7 @@
+{
+  "duplicate_shipment_id": 150,
+  "missing_port": 120,
+  "bad_weight": 90,
+  "delivery_before_dispatch": 70,
+  "unknown_carrier": 60
+}
